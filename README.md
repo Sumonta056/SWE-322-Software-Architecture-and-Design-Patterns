@@ -1,4 +1,4 @@
-# SWE-322-Software-Architecture-and-Desgin-Pattern
+# SWE-322-Software-Architecture-and-Design-Pattern
 All codes in design pattern lab
 
 # Blog written by me
