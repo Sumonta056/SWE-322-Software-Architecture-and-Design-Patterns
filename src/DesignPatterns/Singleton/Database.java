@@ -1,4 +1,4 @@
-package DesignPatterns.Creational;
+package DesignPatterns.Singleton;
 
 public class Database {
     public static Database instance;
