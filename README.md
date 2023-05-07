@@ -8,6 +8,9 @@
 ️
 ## ✍ Topic Covered 
 - UML CLass Diagram and Converting into Code
+  - Class Diagram Basics
+  - Class Structure
+  - Relationship between classes
 - Solid Principals
   - Single Responsibility Principle (SRP)
   - Open/Closed Principle (OCP)

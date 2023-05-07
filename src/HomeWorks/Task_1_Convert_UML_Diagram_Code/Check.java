@@ -5,9 +5,7 @@ public class Check extends Payment{
     String name ;
     String bankId;
 
-    public void authorized()
-    {
-
+    public void authorized() {
     }
     
 

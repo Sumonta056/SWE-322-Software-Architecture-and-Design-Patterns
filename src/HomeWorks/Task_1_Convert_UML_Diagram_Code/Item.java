@@ -4,9 +4,14 @@ public class Item {
 
     String shippingWeight;
     String description ;
+    public void getPriceForQuantity(){
 
-    public void getPriceForQuantity(){}
-    public void getTax(){}
-    public void inStock(){}
+    }
+    public void getTax(){
+
+    }
+    public void inStock(){
+
+    }
 
 }
