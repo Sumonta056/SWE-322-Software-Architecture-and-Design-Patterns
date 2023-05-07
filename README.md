@@ -18,9 +18,10 @@
   - Interface Segregation Principle (ISP)
   - Dependency Inversion Principle (DIP)
 - Design Patterns
-  - Singleton Design Pattern
-  - Factory Design Pattern
-  - Abstract Factory Design Pattern
-  - Builder Design Pattern
+  - Creational Design Pattern 
+    - Singleton Design Pattern
+    - Factory Design Pattern
+    - Abstract Factory Design Pattern
+    - Builder Design Pattern
 
 
