@@ -1,0 +1,6 @@
+package HomeWorks.Task_3_Factory_And_AbstractFactory_Method.Answer.concrete_factory.BlackHoles;
+
+import HomeWorks.Task_3_Factory_And_AbstractFactory_Method.Answer.abstract_factory.ObstacleFactory;
+
+public abstract class BlackHolesFactory extends ObstacleFactory {
+}
