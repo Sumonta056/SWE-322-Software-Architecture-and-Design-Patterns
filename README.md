@@ -23,5 +23,10 @@
     - Factory Design Pattern
     - Abstract Factory Design Pattern
     - Builder Design Pattern
+    - Prototype Design Pattern
+  - Behavioral Design Pattern 
+    - Strategy Design Pattern
+  - Structural Design Pattern
+    - Adapter Design Pattern
 
 
