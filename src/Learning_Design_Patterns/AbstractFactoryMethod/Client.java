@@ -10,16 +10,18 @@ public class Client {
     public static void main(String[] args) {
 
         ObstacleFactory factory ;
-        int Score = 400 ;
-        int level = 0 ;
+        int Score = (int)(Math.random() * 0.5) + 2;
+        int level = (int)(Math.random() * 2) + 1;
 
-        if (level == 1 ) factory = new AsteroidFactory();
-        else factory = new EnemyFactory();
-
-        Asteriods obstacle1 = factory.createAsteriods(Score);
-        EnemyShips obstacle2  = factory.createEnemyShips(Score);
-
-        if (level == 1 ) obstacle1.show();
-        else obstacle2.show();
+        if (level == 1 ) {
+            factory = new AsteroidFactory();
+            Asteriods obstacle = factory.createAsteriods(Score);
+            obstacle.show();
+        }
+        else {
+            factory = new EnemyFactory();
+            EnemyShips obstacle  = factory.createEnemyShips(Score);
+            obstacle.show();
+        }
     }
 }
