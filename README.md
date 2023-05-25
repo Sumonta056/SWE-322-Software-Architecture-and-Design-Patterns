@@ -26,7 +26,11 @@
     - Prototype Design Pattern
   - Behavioral Design Pattern 
     - Strategy Design Pattern
+    - Composite Design Pattern
   - Structural Design Pattern
     - Adapter Design Pattern
+    - Chain of Responsibility Pattern
+    - Iterator Design Pattern
+    - Command Design Pattern
 
 
