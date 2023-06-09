@@ -7,6 +7,8 @@
 #### 🤭 Singleton Design Pattern (**[👉Blog Link](https://medium.com/@sumontasaha80/the-singleton-design-pattern-41f5be69d622)**)
 ️
 ## ✍ Topic Covered 
+
+### 😢 Term Test - 2 Syllabus
 - UML CLass Diagram and Converting into Code
   - Class Diagram Basics
   - Class Structure
@@ -24,13 +26,30 @@
     - Abstract Factory Design Pattern
     - Builder Design Pattern
     - Prototype Design Pattern
-  - Behavioral Design Pattern 
-    - Strategy Design Pattern
-    - Composite Design Pattern
   - Structural Design Pattern
     - Adapter Design Pattern
+    - Composite Design Pattern (Not Done Yet)
+
+### 😢 Term Test - 2 Syllabus
+  - Behavioral Design Pattern 
+    - Strategy Design Pattern
     - Chain of Responsibility Pattern
     - Iterator Design Pattern
     - Command Design Pattern
+    - State Design Pattern
+    - Memento Design Pattern
+    - Observer Design Pattern
+    - Visitor Design Pattern
+  
+  - Code Smell Refactoring (Clean Code)
 
-
+### 😢 Extra Syllabus : Final 
+- Software Architecture
+   - Layer Pattern
+   - Client - Server Pattern
+   - Master - Slave Pattern
+   - Pipe - Filter Patter
+   - Broker Pattern
+   - Peer-to-Peer Pattern
+   - Event-Bus Pattern
+   - Model-View-Controller Pattern
