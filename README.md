@@ -1,4 +1,13 @@
-# Software-Architecture-and-Design-Pattern
+
+<div align="center">
+
+# 🍧 Software-Architecture-and-Design-Pattern 🍧
+
+#### Website Link  (**[👉Click Here](https://sumonta056.github.io/SWE-322-Software-Architecture-and-Design-Patterns/)**)
+
+</div>
+
+
 
 
 ## ✍ Blog Written by Me
@@ -8,7 +17,7 @@
 ️
 ## ✍ Topic Covered 
 
-### 😢 Term Test - 2 Syllabus
+### 😢 Term Test - 1 Syllabus
 - UML CLass Diagram and Converting into Code
   - Class Diagram Basics
   - Class Structure
@@ -31,6 +40,7 @@
     - Composite Design Pattern (Not Done Yet)
 
 ### 😢 Term Test - 2 Syllabus
+
   - Behavioral Design Pattern 
     - Strategy Design Pattern
     - Chain of Responsibility Pattern
