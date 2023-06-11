@@ -14,7 +14,11 @@
 #### 🧐  SOLID Principles: The Key to Writing Clean &High-Quality Code (**[👉Blog Link](https://medium.com/nerd-for-tech/solid-principles-the-key-to-writing-clean-high-quality-code-9a8f88ea0a8)**)
 #### 😲 Factory Design Pattern (**[👉Blog Link](https://medium.com/design-bootcamp/the-factory-design-pattern-ba150444c8a7)**)
 #### 🤭 Singleton Design Pattern (**[👉Blog Link](https://medium.com/@sumontasaha80/the-singleton-design-pattern-41f5be69d622)**)
+#### 😋 The Observer Design Pattern in Action: A Closer Look at YouTube’s Subscription Notifications (**[👉Blog Link](https://bootcamp.uxdesign.cc/the-observer-design-pattern-in-action-a-closer-look-at-youtubes-subscription-notifications-ca1ca680e560)**)
+#### 🤩 Broker Pattern in Action: A Deep Dive into Group Web-Chat Applications (**[👉Blog Link](https://medium.com/design-bootcamp/broker-pattern-in-action-a-deep-dive-into-group-web-chat-applications-c96114bf2feb)**)
 ️
+
+
 ## ✍ Topic Covered 
 
 ### 😢 Term Test - 1 Syllabus
