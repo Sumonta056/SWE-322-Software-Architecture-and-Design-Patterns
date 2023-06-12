@@ -1,8 +1,7 @@
-package HomeWorks.Task_2_Solid.Class_Test_01.Answer;
+package HomeWorks.ClassTasks.Class_Test_01_Liskov.Question;
 
-public class Bike implements VehicleAll {
+public class Bike extends Vehicle {
     private int numGears;
-    private int speed;
 
     public void setNumGears(int numGears) {
         this.numGears = numGears;
@@ -16,10 +15,6 @@ public class Bike implements VehicleAll {
         if (speed > 60) {
             throw new IllegalArgumentException("Bikes cannot go faster than 60 km/h");
         }
-        this.speed = speed;
-    }
-
-    public int getSpeed() {
-        return speed;
+        super.setSpeed(speed);
     }
 }

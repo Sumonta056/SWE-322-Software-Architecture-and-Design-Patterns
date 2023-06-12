@@ -1,4 +1,4 @@
-package HomeWorks.Task_2_Solid.Class_Test_01.Answer;
+package HomeWorks.ClassTasks.Class_Test_01_Liskov.Answer;
 
 //The code violates the Liskov substitution principle (LSP) of the SOLID principles
 
