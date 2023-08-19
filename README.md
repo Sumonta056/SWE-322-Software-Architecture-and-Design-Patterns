@@ -1,16 +1,13 @@
 
 <div align="center">
 
-[//]: # (<img src = "dp.png" width="700px">)
-![](dp.png)
+<img src = "dp.png" width="700px">
 
 # 🍧 Software-Architecture-and-Design-Pattern 🍧
 
 #### (**[👉 Go To "src" Folder For Resources ](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src)**)
 
 #### Website Link  (**[👉Click Here](https://sumonta056.github.io/SWE-322-Software-Architecture-and-Design-Patterns/)**)
-
-
 
 </div>
 
