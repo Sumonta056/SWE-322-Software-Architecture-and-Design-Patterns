@@ -1,6 +1,8 @@
 
 <div align="center">
 
+<img src = "dp.png" width="700px">
+
 # 🍧 Software-Architecture-and-Design-Pattern 🍧
 
 #### (**[👉 Go To "src" Folder For Resources ](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src)**)
@@ -54,12 +56,12 @@ Welcome to a world where innovation arises from patterns and creativity converge
     - Prototype Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/PrototypeMethod))**
   - Structural Design Pattern
     - Adapter Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/HomeWorks/Task_5_Adapter_Method))**
-    - Composite Design Pattern **([👉Click Here]())**
+    - Composite Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/composite))**
     - Template Design Pattern **([👉Click Here]())**
-    - Proxy Design Pattern **([👉Click Here]())**
-    - Decorator Design Pattern **([👉Click Here]())**
-    - Facade Pattern **([👉Click Here]())** 
-    - Flyweight Pattern **([👉Click Here]())**
+    - Proxy Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/proxy))**
+    - Decorator Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/decorator))**
+    - Facade Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/facade))** 
+    - Flyweight Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/flyweight))**
 
 
 ### 😢 Term Test - 2 Syllabus
