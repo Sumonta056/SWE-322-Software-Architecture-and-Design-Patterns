@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src = "dp.png" width="700px">
+[//]: # (<img src = "dp.png" width="700px">)
+![](dp.png)
 
 # 🍧 Software-Architecture-and-Design-Pattern 🍧
 
