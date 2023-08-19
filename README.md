@@ -13,12 +13,6 @@
 
 </div>
 
-With the help of my comprehensive Git repository, learn the basic concepts of software design.
-Explore handwritten notes that deconstruct complex design patterns, discover into practical code implementations,
-and get understanding from insightful blogs. This repository, which is appropriate for beginners as well as professionals,
-gives you the tools you need to learn design patterns with ease.
-Improve your software engineering abilities and change the way you think about addressing problems.
-Welcome to a world where innovation arises from patterns and creativity converges with structure.
 
 
 ## ✍ Blog Written by Me
