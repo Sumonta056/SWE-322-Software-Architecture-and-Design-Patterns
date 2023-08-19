@@ -7,6 +7,13 @@
 
 #### Website Link  (**[👉Click Here](https://sumonta056.github.io/SWE-322-Software-Architecture-and-Design-Patterns/)**)
 
+
+With the help of my comprehensive Git repository, learn the basic concepts of software design. 
+Explore handwritten notes that deconstruct complex design patterns, discover into practical code implementations, 
+and get understanding from insightful blogs. This repository, which is appropriate for beginners as well as professionals,
+gives you the tools you need to learn design patterns with ease.
+Improve your software engineering abilities and change the way you think about addressing problems. 
+Welcome to a world where innovation arises from patterns and creativity converges with structure.
 </div>
 
 
@@ -30,40 +37,40 @@
   - Class Diagram Basics
   - Class Structure
   - Relationship between classes
-- Solid Principals
-  - Single Responsibility Principle (SRP)
-  - Open/Closed Principle (OCP)
-  - Liskov Substitution Principle (LSP)
-  - Interface Segregation Principle (ISP)
-  - Dependency Inversion Principle (DIP)
+- Solid Principals **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/HomeWorks/Task_2_Solid/Solid_Assignment/Answer))**
+  - Single Responsibility Principle (SRP) **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/HomeWorks/Task_2_Solid/Solid_Assignment/Answer/Single_Responsibility_Principle_SRP))**
+  - Open/Closed Principle (OCP) **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/SOLID/Open_closed_Principle_(OCP)))**
+  - Liskov Substitution Principle (LSP) **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+  - Interface Segregation Principle (ISP) **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+  - Dependency Inversion Principle (DIP) **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
 - Design Patterns
-  - Creational Design Pattern 
-    - Singleton Design Pattern
-    - Factory Design Pattern
-    - Abstract Factory Design Pattern
-    - Builder Design Pattern
-    - Prototype Design Pattern
+  - Creational Design Pattern  
+    - Singleton Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Factory Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Abstract Factory Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Builder Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Prototype Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
   - Structural Design Pattern
-    - Adapter Design Pattern
-    - Composite Design Pattern 
-    - Template Design Pattern
-    - Proxy Design Pattern
-    - Decorator Design Pattern
-    - Facade Pattern 
-    - Flyweight Pattern
+    - Adapter Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Composite Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Template Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Proxy Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Decorator Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Facade Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))** 
+    - Flyweight Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
 
 
 ### 😢 Term Test - 2 Syllabus
 
   - Behavioral Design Pattern 
-    - Strategy Design Pattern
-    - Chain of Responsibility Pattern
-    - Iterator Design Pattern
-    - Command Design Pattern
-    - State Design Pattern
-    - Memento Design Pattern
-    - Observer Design Pattern
-    - Visitor Design Pattern
+    - Strategy Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Chain of Responsibility Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Iterator Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Command Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - State Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Memento Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Observer Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Visitor Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
   
   - Code Smell Refactoring (Clean Code)
 
