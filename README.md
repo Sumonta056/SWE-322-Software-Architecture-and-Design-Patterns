@@ -8,13 +8,15 @@
 #### Website Link  (**[👉Click Here](https://sumonta056.github.io/SWE-322-Software-Architecture-and-Design-Patterns/)**)
 
 
-With the help of my comprehensive Git repository, learn the basic concepts of software design. 
-Explore handwritten notes that deconstruct complex design patterns, discover into practical code implementations, 
+
+</div>
+
+With the help of my comprehensive Git repository, learn the basic concepts of software design.
+Explore handwritten notes that deconstruct complex design patterns, discover into practical code implementations,
 and get understanding from insightful blogs. This repository, which is appropriate for beginners as well as professionals,
 gives you the tools you need to learn design patterns with ease.
-Improve your software engineering abilities and change the way you think about addressing problems. 
+Improve your software engineering abilities and change the way you think about addressing problems.
 Welcome to a world where innovation arises from patterns and creativity converges with structure.
-</div>
 
 
 ## ✍ Blog Written by Me
@@ -33,46 +35,46 @@ Welcome to a world where innovation arises from patterns and creativity converge
 ## ✍ Topic Covered 
 
 ### 😢 Term Test - 1 Syllabus
-- UML CLass Diagram and Converting into Code
+- UML CLass Diagram and Converting into Code **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/HomeWorks/Task_1_Convert_UML_Diagram_Code))**
   - Class Diagram Basics
   - Class Structure
   - Relationship between classes
 - Solid Principals **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/HomeWorks/Task_2_Solid/Solid_Assignment/Answer))**
-  - Single Responsibility Principle (SRP) **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/HomeWorks/Task_2_Solid/Solid_Assignment/Answer/Single_Responsibility_Principle_SRP))**
+  - Single Responsibility Principle (SRP) **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/SOLID/SingleResponsibilityPrinciple))**
   - Open/Closed Principle (OCP) **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/SOLID/Open_closed_Principle_(OCP)))**
-  - Liskov Substitution Principle (LSP) **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-  - Interface Segregation Principle (ISP) **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-  - Dependency Inversion Principle (DIP) **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+  - Liskov Substitution Principle (LSP) **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/HomeWorks/Task_2_Solid/Solid_Assignment/Answer/Liskov_Substitution_Principle_LSP))**
+  - Interface Segregation Principle (ISP) **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/SOLID/Interface_Segregation_Principle_ISP))**
+  - Dependency Inversion Principle (DIP) **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/SOLID/Dependency_Inversion_Principle_DIP))**
 - Design Patterns
   - Creational Design Pattern  
-    - Singleton Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Factory Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Abstract Factory Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Builder Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Prototype Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Singleton Design Pattern **([👉Click Here]())**
+    - Factory Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/FactoryMethod))**
+    - Abstract Factory Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/AbstractFactoryMethod))**
+    - Builder Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/BuilderMethod))**
+    - Prototype Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/PrototypeMethod))**
   - Structural Design Pattern
-    - Adapter Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Composite Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Template Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Proxy Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Decorator Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Facade Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))** 
-    - Flyweight Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Adapter Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/HomeWorks/Task_5_Adapter_Method))**
+    - Composite Design Pattern **([👉Click Here]())**
+    - Template Design Pattern **([👉Click Here]())**
+    - Proxy Design Pattern **([👉Click Here]())**
+    - Decorator Design Pattern **([👉Click Here]())**
+    - Facade Pattern **([👉Click Here]())** 
+    - Flyweight Pattern **([👉Click Here]())**
 
 
 ### 😢 Term Test - 2 Syllabus
 
   - Behavioral Design Pattern 
-    - Strategy Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Chain of Responsibility Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Iterator Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Command Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - State Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Memento Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Observer Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
-    - Visitor Design Pattern **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+    - Strategy Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/StrategyPattern))**
+    - Chain of Responsibility Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/ChainOfResponsibilityPattern))**
+    - Iterator Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/IteratorDesignPattern))**
+    - Command Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/CommandDesignPattern))**
+    - State Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/StateDesignPattern))**
+    - Memento Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/MementoPattern))**
+    - Observer Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/ObserverPattern))**
+    - Visitor Design Pattern **([👉Click Here](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src/Learning_Design_Patterns/VisitorPattern))**
   
-  - Code Smell Refactoring (Clean Code)
+  - Code Smell Refactoring (Clean Code) **([👉Click Here](https://medium.com/gitconnected/from-messy-code-to-masterpiece-the-art-of-refactoring-and-code-smell-removal-b73882918511))**
 
 ### 😢 Extra Syllabus : Final 
 - Software Architecture
