@@ -3,14 +3,15 @@
 
 <img src = "dp.png" width="700px">
 
-# 🍧 Software-Architecture-and-Design-Pattern 🍧
+<h1><span style="font-weight:700;font-size:30px">
+🍧 Software-Architecture-and-Design-Pattern 🍧
+</span></h1>
 
-#### (**[👉 Go To "src" Folder For Resources ](https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src)**)
+<a herf = "https://github.com/Sumonta056/SWE-322-Software-Architecture-and-Design-Patterns/tree/main/src"> <h5>👉 Go To "src" Folder For Resources</h5> </a>
 
-#### Website Link  (**[👉Click Here](https://sumonta056.github.io/SWE-322-Software-Architecture-and-Design-Patterns/)**)
+<a herf = "https://sumonta056.github.io/SWE-322-Software-Architecture-and-Design-Patterns/"> <h5>🍂 Website Link</h5> </a>
 
 </div>
-
 
 
 ## ✍ Blog Written by Me
